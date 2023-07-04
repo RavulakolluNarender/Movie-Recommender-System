@@ -1,5 +1,3 @@
-Certainly! Here's an example of a README file for your Movie Recommender System project:
-
 # Movie Recommender System
 
 This project implements a Movie Recommender System using machine learning techniques. The system suggests similar movies based on user-selected movies. It utilizes the TMDB dataset for movie information and uses a content-based filtering approach to recommend movies.
@@ -68,7 +66,7 @@ When a user selects a movie, the system recommends similar movies based on their
 
 ## Author
 
-[Your Name]
+Narender Ravulakollu
 
 ## License
 
